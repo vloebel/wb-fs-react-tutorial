@@ -1,5 +1,11 @@
 ![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
 
+# THIS IS A PAID CLASS AVAILABLE FROM WES BOS
+
+His tutorials are excellent. Please respect his work and visit his website for more information on using this course.
+
+
+
 # Advanced React & GraphQL
 
 These are the starter files and stepped solutions for the [Advanced React & GraphQL](https://AdvancedReact.com) course by [Wes Bos](https://WesBos.com/).
