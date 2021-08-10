@@ -1,8 +1,8 @@
 ![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
 
-# THIS IS A PAID CLASS AVAILABLE FROM WES BOS
+# This material was developed by [Wes Bos](https://WesBos.com/)
 
-His tutorials are excellent. Please respect his work and visit his website for more information on using this course.
+Please respect the hard work that went into this class and visit [WesBos.com](https://WesBos.com/) for information on purchasing the tutorials.
 
 
 
